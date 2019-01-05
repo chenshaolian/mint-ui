@@ -1,0 +1,54 @@
+$my: #4497bb;
+
+html{    
+  height: 100%;
+  color: #999;    
+  font-size: 12px;
+  text-align: center;
+  background: #FFF;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: 'Microsoft YaHei', 'Avenir', Helvetica, Arial, sans-serif;
+}
+
+body {
+  height: 100%;
+}
+
+body,div,ul,ol,li,h1,h2,h3,h4,h5,h6,form,input,textarea,p,th,td {    
+  margin: 0;    
+  padding: 0;
+}
+
+table {    
+  border-spacing: 0;
+  border-collapse: collapse;    
+}
+
+img {    
+  border: 0;
+}
+
+ol,ul {    
+  list-style: none;
+} 
+
+caption,th {    
+  text-align: left;
+}
+
+h1,h2,h3,h4,h5,h6 {    
+  font-size: 100%;    
+  font-weight: normal;
+}
+
+input,textarea,select {    
+  font-size: inherit;    
+  font-family: inherit;    
+  font-weight: inherit;
+}
+
+input,textarea,select {    
+  font-size:100%;
+}
+
